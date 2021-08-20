@@ -9,9 +9,10 @@
 .caixa{
     margin: 0 auto;
     width: 50%; 
-    
-    
+}
 
+body {
+    zoom: 0.67 /* Coloca o zoom em 200% */
 }
 
 
